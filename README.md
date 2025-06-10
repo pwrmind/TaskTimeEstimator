@@ -34,8 +34,8 @@ Where:
 
 ### Installation
 ```bash
-git clone https://github.com/yourusername/task-time-estimator.git
-cd task-time-estimator
+git clone https://github.com/pwrmind/TaskTimeEstimator.git
+cd TaskTimeEstimator
 dotnet run
 ```
 
